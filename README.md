@@ -1,5 +1,11 @@
 # flappy-bird-game
-Simple flappy bird game for pc using Unity Engine
+Simple flappy bird game for pc using Unity Engine.
+Feature:
+- Score system
+- Replay menu
+- Character movement
+- Simple player animation
+- Simple object animation
 
 The tileset is from the www.spriters-resource.com. 
 Here is the link to the tileset: https://www.spriters-resource.com/mobile/flappybird/sheet/59894/
